@@ -1,11 +1,6 @@
 Project Overview
 
 
-
-Project Title: Robotic Arm March
-
-Duration: December 2024 – February 2025
-
 Technologies: ESP32, ROS2 Humble, C++, PID Control, Gazebo 11, RViz
 
 Objective: Design and implement a 4-DOF (Degrees of Freedom) robotic arm capable of precise pick-and-place operations, integrating real-time control with PID tuning, sensor feedback, and simulation in Gazebo and RViz.
