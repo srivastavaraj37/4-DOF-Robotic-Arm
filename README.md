@@ -1,2 +1,1 @@
-"# 4-DOF-Robotic-Arm" 
-"# 4-DOF-Robotic-Arm" 
+a 4-joint robotic arm that’s like a super-precise helper, able to pick up and place objects with ease! From December 2024 to February 2025, I used an ESP32 chip to control four servo motors (base, shoulder, elbow, and gripper), paired with sensors to track their positions. With ROS2 software and C++ coding, I made the arm move smoothly using PID control for accuracy. I tested it in a virtual world with Gazebo and RViz to perfect its moves before trying it in real life, creating a fun and reliable robotic buddy for pick-and-place tasks.
